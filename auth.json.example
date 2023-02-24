@@ -1,0 +1,14 @@
+{
+  "client_id": "client_id",
+  "secret": "secret",
+  "realms" : [
+    {
+      "url": "https://us.api.blizzard.com/data/wow/connected-realm/60?namespace=dynamic-us",
+      "webhook": "https://discord.com/api/webhooks/1005486183918350386/6AdfLEc0VSWaGkGJifKJNyr6SMRO8p5iac8_7NuVa0622t0BH15-VHPkQvZhIhzYEdrq"
+    },
+    {
+      "url": "https://us.api.blizzard.com/data/wow/connected-realm/57?namespace=dynamic-us",
+      "webhook": "https://discord.com/api/webhooks/1005486183918350386/6AdfLEc0VSWaGkGJifKJNyr6SMRO8p5iac8_7NuVa0622t0BH15-VHPkQvZhIhzYEdrq"
+    }
+  ]
+}
